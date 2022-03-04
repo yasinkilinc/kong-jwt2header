@@ -2,7 +2,7 @@ package = "kong-jwt2header"
 version = "1.0-3"
 
 source = {
-  url = "git://github.com/yesinteractive/kong-jwt2header.git"
+  url = "git://github.com/yasinkilinc/kong-jwt2header.git"
 }
 
 description = {
@@ -21,3 +21,4 @@ build = {
     ["kong.plugins.kong-jwt2header.schema"] = "plugin/schema.lua",
   }
 }
+
